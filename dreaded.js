@@ -341,94 +341,93 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       case "help":
         case "menu":
 let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
-┃✯╭──────────────
-┃✯│ Owner : 𝐌𝐀𝐋𝐈𝐁𝐔
-┃✯│ User : ${m.pushName} 
-┃✯│ Platform : Tesla x
-┃✯│ Available RAM 34GB of 62GB
-┃✯│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
-┃✯│
-┃✯│
-┃✯│▎▍▌▌▉▏▎▌▉▐▏▌
-┃✯│▎▍▌▌▉▏▎▌▉▐▏▌
-┃✯│ 𓅓 𝐓𝐡𝐞𝐞 𝐎𝐰𝐥 𓅓
-┃✯│
+┃𓅓╭──────────────
+┃𓅓│ Owner : 𝐌𝐀𝐋𝐈𝐁𝐔
+┃𓅓│ User : ${m.pushName} 
+┃𓅓│ Platform : Tesla x
+┃𓅓│ Available RAM 34GB of 62GB
+┃𓅓│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
+┃𓅓│
+┃𓅓│
+┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
+┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
+┃𓅓│ 𓅓 𝐓𝐡𝐞𝐞 𝐎𝐰𝐥 𓅓
+┃𓅓│
 ┃╰─────
 ╰─────────────────❍
-╭════〘 𝗢𝗪𝗡𝗘𝗥 〙════⊷❍
+╭════〘 𓅓𝗢𝗪𝗡𝗘𝗥𓅓 〙════⊷❍
 ▯╭────────────···▸
-┴✯│
-┃✯│Admin
-┃✯│Broadcast
-┃✯│Join
-┃✯│Botpp
-┃✯│>
-┃✯│Block
-┃✯│Kill
-┃✯│Unblock
-┃✯│Setvar
-┃✯│Getvar
+┴𓅓│
+┃𓅓│Admin
+┃𓅓│Broadcast
+┃𓅓│Join
+┃𓅓│Botpp
+┃𓅓│>
+┃𓅓│Block
+┃𓅓│Kill
+┃𓅓│Unblock
+┃𓅓│Setvar
+┃𓅓│Getvar
 ┬✯│
 │╰─────────────────❍
 ╰══════════════════⊷❍
 
-╭════〘 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 〙════⊷❍
+╭════〘 𓅓𝗚𝗘𝗡𝗘𝗥𝗔𝗟𓅓〙════⊷❍
 ▯╭─────────────···▸
-┴✯│
-┃✯│Sticker
-┃✯│Toimg
-┃✯│Upload
-┃✯│Smeme
-┃✯│Ig
-┃✯│Play
-┃✯│Whatsong
-┃✯│Yts
-┃✯│Ytmp3 
-┃✯│Ytmp4
-┃✯│Lyrics
-┃✯│Movie
-┃✯│Mix
-┃✯│Ai-img                                                                                                                                                                                                                                                                                     
-┃✯│Gpt
-┃✯│Crown
-┃✯│DP
-┃✯│Speed
-┃✯│Alive
-┃✯│Runtime
-┃✯│Enc
-┃✯│Compile-py
-┃✯│Compile-js
-┃✯│Compile-c
-┃✯│Compile-c++
-┃✯│Sirm
-┃✯│Ping
-┃✯│Owner
-┃✯│List
-┃✯│Mail
-┃✯│Inbox
+┴𓅓│
+┃𓅓│Sticker
+┃𓅓│Toimg
+┃𓅓│Upload
+┃𓅓│Smeme
+┃𓅓│Ig
+┃𓅓│Play
+┃𓅓│Whatsong
+┃𓅓│Yts
+┃𓅓│Ytmp3 
+┃𓅓│Ytmp4
+┃𓅓│Lyrics
+┃𓅓│Movie
+┃𓅓│Mix
+┃𓅓│Ai-img                                                                                                                                                                                                                                                                                     
+┃𓅓│Gpt
+┃𓅓│Owl
+┃𓅓│DP
+┃𓅓│Speed
+┃𓅓│Alive
+┃𓅓│Runtime
+┃𓅓│Enc
+┃𓅓│Compile-py
+┃𓅓│Compile-js
+┃𓅓│Compile-c
+┃𓅓│Compile-c++
+┃𓅓│Ping
+┃𓅓│Owner/Malibu
+┃𓅓│List
+┃𓅓│Mail
+┃𓅓│Inbox
 ┬✯│
 │╰─────────────────❍
-╭════〘 𝗔𝗗𝗠𝗜𝗡 〙════⊷❍
+╭════〘 𓅓𝗔𝗗𝗠𝗜𝗡𓅓 〙════⊷❍
 ▯╭─────────────···▸
-┃✯│Promote
-┃✯│Demote
-┃✯│Delete
-┃✯│Remove
-┃✯│Foreigners
-┃✯│Faker
-┃✯│Close
-┃✯│Open
-┃✯│Disp-off
-┃✯│Disp-7
-┃✯│Disp-90
-┃✯│Icon
-┃✯│Subject
-┃✯│Desc
-┃✯│Leave
-┃✯│Tagall
-┃✯│Hidetag
-┃✯│Revoke
-┃✯╰───────────────❍
+┃𓅓│Promote
+┃𓅓│Demote
+┃𓅓│Delete
+┃𓅓│Remove
+┃𓅓│Foreigners
+┃𓅓│Faker
+┃𓅓│Close
+┃𓅓│Open
+┃𓅓│Disp-off
+┃𓅓│Disp-7
+┃𓅓│Disp-90
+┃𓅓│Icon
+┃𓅓│Subject
+┃𓅓│Desc
+┃𓅓│Leave
+┃𓅓│Tagall
+┃𓅓│Hidetag
+┃𓅓│Revoke
+┃𓅓╰───────────────❍
 ╰════════════════⊷❍`;
 
 if (menu === 'VIDEO') {
@@ -495,7 +494,7 @@ reply(resultt.stderr)
 
 break;
 
-case "crown":
+case "owl":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -618,7 +617,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `DreadedBot`
+                    author: `OwlAiBot`
                 })
 
 } catch (errr) { 
@@ -1726,7 +1725,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/azhOf4c.mp4' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { video: { url: 'https://www.mediafire.com/file/1dnv1h15pkv6slg/VID-20231205-WA0103.mp4/file' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1867,8 +1866,8 @@ case "movie":
              } 
  break;
  
-          case "owl": case "owner": case "sirm": 
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/azhOf4c.mp4' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254743551416 🥱` }, {quoted: m}); 
+          case "owl": case "owner": case "malibu": 
+ client.sendMessage(m.chat, { video: { url: 'https://www.mediafire.com/file/1dnv1h15pkv6slg/VID-20231205-WA0103.mp4/file' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254743551416 🥱` }, {quoted: m}); 
   
  break; 
 
