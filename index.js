@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || 'DREADED';
+let botname = process.env.BOTNAME || '𝐎𝐖𝐋 𝐀𝐈';
 
-const owner = process.env.DEV || '254114018035'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '62856557114003'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
