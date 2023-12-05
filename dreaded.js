@@ -434,7 +434,7 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./main.mp4'),
+                        video: fs.readFileSync('./VID-20231205-WA0103.mp4'),
                         caption: cap,
                         gifPlayback: true
                     }, {
