@@ -453,7 +453,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐎𝐖𝐋 𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./owl.jpg'),
+                                thumbnail: fs.readFileSync('./IMG-20231205-WA0115.jpg'),
                                 sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
