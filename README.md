@@ -30,7 +30,7 @@ Linking/Pairing:
 
 - Add the environmental variables in .env into your hosting site for bot to work.
 </h2>
- 
+ -To easly deploy heroku add your forked repo [here](https://dashboard.heroku.com/new?template=)
 
 
 
