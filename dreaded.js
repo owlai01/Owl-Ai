@@ -405,6 +405,9 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│List
 ┃𓅓│Mail
 ┃𓅓│Inbox
+┃𓅓│script
+┃𓅓│repo
+┃𓅓│sc
 ┬✯│
 │╰─────────────────❍
 ╭════〘 𓅓𝗔𝗗𝗠𝗜𝗡𓅓 〙════⊷❍
@@ -1870,6 +1873,11 @@ case "movie":
  client.sendMessage(m.chat, { video: { url: 'https://www.mediafire.com/file/1dnv1h15pkv6slg/VID-20231205-WA0103.mp4/file' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254743551416 🥱` }, {quoted: m}); 
   
  break; 
+        
+       case "script": case "repo": case "sc": 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and give us five star ✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Humans!` }, {quoted: m}); 
+  
+ break
 
 
           // OWNER COMMANDS
