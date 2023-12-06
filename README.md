@@ -31,9 +31,9 @@ Linking/Pairing:
 - Add the environmental variables in .env into your hosting site for bot to work.
 </h2>
  
-
-
-
+- for heroku add your forked repo to this link [here](https://dashboard.heroku.com/new?template=)
+   to connect easily
+  
 Incase of any issues, contact me  [here](https://wa.me/+254743551416) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
