@@ -379,7 +379,6 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Toimg
 ┃𓅓│Upload
 ┃𓅓│Smeme
-┃𓅓│url
 ┃𓅓│Play
 ┃𓅓│Whatsong
 ┃𓅓│Yts
@@ -629,7 +628,7 @@ const rel = await quote(xf, pushname, pppuser)
             }
 
 break;
-            case 'upload': case "url": {
+            case 'upload': {
                 
                 let fta2 = await client.downloadAndSaveMediaMessage(qmsg)
                 if (/image/.test(mime)) {
