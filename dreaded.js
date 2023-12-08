@@ -1727,7 +1727,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://imgur.com/a/qbn8k5F.mp4' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/117bb12f0cf686af0c0cd.jpg' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1869,12 +1869,12 @@ case "movie":
  break;
  
           case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254743551416 🥱` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254712703241 🥱` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and give us five star ✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Humans!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Humans!` }, {quoted: m}); 
   
  break
 
