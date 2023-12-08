@@ -379,7 +379,7 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Toimg
 ┃𓅓│Upload
 ┃𓅓│Smeme
-┃𓅓│Ig
+┃𓅓│url
 ┃𓅓│Play
 ┃𓅓│Whatsong
 ┃𓅓│Yts
@@ -629,7 +629,7 @@ const rel = await quote(xf, pushname, pppuser)
             }
 
 break;
-            case 'upload': {
+            case 'upload': case "url": {
                 
                 let fta2 = await client.downloadAndSaveMediaMessage(qmsg)
                 if (/image/.test(mime)) {
@@ -1870,7 +1870,7 @@ case "movie":
  break;
  
           case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { video: { url: 'https://www.mediafire.com/file/1dnv1h15pkv6slg/VID-20231205-WA0103.mp4/file' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254743551416 🥱` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254743551416 🥱` }, {quoted: m}); 
   
  break; 
         
