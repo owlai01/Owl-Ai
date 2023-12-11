@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of dreaded bot Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of owl-ai bot Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
