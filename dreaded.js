@@ -169,7 +169,7 @@ function _0x11cc() {
         'split',
         '84AXXWgJ',
         '4435424UJQIXb',
-        'y\x20CROWN\x20',
+        'y\x20OWL\x20',
         'TRUE',
         'tibot:\x0a\x0a@',
         '\x20as\x20a\x20bot.',
