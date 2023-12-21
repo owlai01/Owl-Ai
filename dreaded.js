@@ -82,7 +82,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'AI';
     const packname = process.env.STICKER_PACKNAME || 'OWL';
-const dev = process.env.DEV || '254743551416'
+const dev = process.env.DEV || '254712703241'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
