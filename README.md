@@ -1,10 +1,10 @@
-# 𝐎𝐖𝐋 𝐀𝐈 𝐁𝐎𝐓
+# PRIME 𝐀𝐈 𝐁𝐎𝐓
 
 <p align="center"> 
-<u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 𝐌𝐀𝐋𝐈𝐁𝐔♥️</u>
+<u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 SOMIYA♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/1d0fb63c857138f5bee51.jpg" width="300" height="300"/>
+<img src="https://i.imgur.com/j1Cyg6V.jpeg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=OWL-AI+WHATSAPP+BOT" alt="">
@@ -14,12 +14,12 @@
 </p>
 <p align="center">
 <a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?color=white&style=flat-square"></a>
-<a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/owlai01/Owl-Ai?color=yellow&style=flat-square"></a>
-<a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/owlai01/Owl-Ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/owlai01/Owl-Ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/owlai01/Prime-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?color=white&style=flat-square"></a>
+<a href="https://github.com/owlai01/Prime-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/primeai01/Owl-Ai?color=yellow&style=flat-square"></a>
+<a href="https://github.com/owlai01/Prime-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/primeai01/Owl-Ai?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/owlai01/Prime-Ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/prime-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/owlai01/Prime-Ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -44,7 +44,7 @@ Linking/Pairing:
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/owlai01/Owl-Ai/fork)
+- Fork this repo by tapping  [here](https://github.com/primeai01/prime-Ai/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -57,14 +57,14 @@ Linking/Pairing:
 
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254743551416) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254740782927) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://github.com/owlai01/Owl-Ai/blob/main/LICENSE)
+[MIT License](https://github.com/primeai01/Prime-Ai/blob/main/LICENSE)
 
-Copyright (c) 2023 𝐎𝐖𝐋 𝐀𝐈 𝐁𝐎𝐓
+Copyright (c) 2023 PRIME- 𝐀𝐈 𝐁𝐎𝐓
 
