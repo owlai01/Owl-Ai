@@ -36,7 +36,7 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@botdreaded/Pairing-Dreaded"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@vagaabond9/Pairing-Owl-ai"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
@@ -57,7 +57,7 @@ Linking/Pairing:
 
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254743551416) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254712703241) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
