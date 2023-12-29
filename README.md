@@ -35,9 +35,6 @@
 <br>
        <p align="left"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-#### 2. Deploy Now.
-   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/owlai01/Owl-Ai"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
 
 
 <h1 align="left">ÐΣPLOY TO REPLIT</h1> 
@@ -45,22 +42,6 @@
 1. If You don't have an account in Replit. Create a account.
     <br>
 <p align="left"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="left"><a href="https://repl.it/github/owlai01/Owl-Ai"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-<h1 align="left">suᴘᴘoʀт ԍʀouᴘ ʟιɴκ</h1>
-
-
-
-   <p align="left">
-      <a href="https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
-     <p/>
-
-
-
- 
 
 
 ### TERMUX
