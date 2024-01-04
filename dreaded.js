@@ -48,14 +48,14 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'OWL AI';
-const antibot = process.env.ANTIBOT || 'FALSE';
+const botname = process.env.BOTNAME || 'Sahan';
+const antibot = process.env.ANTIBOT || 'TRUE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
     const args = body.trim().split(/ +/).slice(1);
     const pushname = m.pushName || "No Name";
     const botNumber = await client.decodeJid(client.user.id);
-    const itsMe = m.sender == botNumber ? true : false;
+    const itsMe = m.sender == botNumber ? true : true;
     let text = (q = args.join(" "));
     const arg = budy.trim().substring(budy.indexOf(" ") + 1);
     const arg1 = arg.trim().substring(arg.indexOf(" ") + 1);
@@ -80,7 +80,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'AI';
+    const author = process.env.STICKER_AUTHOR ||'Sahan';
     const packname = process.env.STICKER_PACKNAME || 'OWL';
 const dev = process.env.DEV || '254712703241'
 
@@ -340,18 +340,18 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
+let cap = `╭════〘 𓅓Sahan BOT𓅓 〙═⊷❍
 ┃𓅓╭──────────────
-┃𓅓│ Owner : 𝐌𝐀𝐋𝐈𝐁𝐔
+┃𓅓│ Owner : Sahan
 ┃𓅓│ User : ${m.pushName} 
-┃𓅓│ Platform : Tesla x
-┃𓅓│ Available RAM 34GB of 62GB
+┃𓅓│ Platform : Linux x
+┃𓅓│ Available RAM 34GB of 500GB
 ┃𓅓│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
 ┃𓅓│
 ┃𓅓│
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
-┃𓅓│ 𓅓 𝐓𝐡𝐞𝐞 𝐎𝐰𝐥 𓅓
+┃𓅓│ 𓅓 Sahan Maduwantha 𓅓
 ┃𓅓│
 ┃╰─────
 ╰─────────────────❍
@@ -388,7 +388,7 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Mix
 ┃𓅓│Ai-img                                                                                                                                                                                                                                                                                     
 ┃𓅓│Gpt
-┃𓅓│Owl
+┃𓅓│Sahan
 ┃𓅓│DP
 ┃𓅓│Speed
 ┃𓅓│Alive
@@ -400,7 +400,7 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Compile-c++
 ┃𓅓│Ping
 ┃𓅓│Owner
-┃𓅓│Malibu
+┃𓅓│Sahan
 ┃𓅓│List
 ┃𓅓│system
 ┃𓅓│Mail
@@ -446,17 +446,17 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐎𝐖𝐋 𝐀𝐈`,
+                                title: `Sahan`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./owl-ai.jpg'),
-                                sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/+94720797915?text=Hey_❤👀',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -497,7 +497,7 @@ reply(resultt.stderr)
 
 break;
 
-case "owl":
+case "sahan":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -1727,13 +1727,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`OWL AI has been running for ${runtime(process.uptime())}`) 
+                 m.reply (`Sahan has been running for ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/117bb12f0cf686af0c0cd.jpg' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: `Hello ${m.pushName}, Sahan is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1835,7 +1835,7 @@ case "movie":
               let fids = await axios.get(`http://www.omdbapi.com/?apikey=742b2d09&t=${text}&plot=full`);  
               let imdbt = "";  
               console.log(fids.data)  
-              imdbt += "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n" + " ``` IMDB MOVIE SEARCH```\n" + "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";  
+              imdbt += "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n" + " ``` IMDB MOVIE SEARCH SAHAN```\n" + "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";  
               imdbt += "🎬Title      : " + fids.data.Title + "\n";  
               imdbt += "📅Year       : " + fids.data.Year + "\n";  
               imdbt += "⭐Rated      : " + fids.data.Rated + "\n";  
@@ -1874,8 +1874,8 @@ case "movie":
              } 
  break;
  
-          case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254712703241 🥱` }, {quoted: m}); 
+          case "owl": case "owner": case "sahan": 
+ client.sendMessage(m.chat, { image: { url: 'https://github.com/sahanaya2006/maduwa2006-Profile/blob/main/Picsart_23-01-31_16-42-48-970.jpg?raw=true' }, caption: `Say no more 😌 here is Sahan contact +94720797915 🥱` }, {quoted: m}); 
   
  break; 
         
@@ -1990,7 +1990,7 @@ case "getvar":
         case "gpt": case "gpt": 
           
 
-            if (!text) return reply("Hello am 𝐎𝐖𝐋 an Ai developed by 𝐌𝐚𝐥𝐢𝐛𝐮, how can I help you today?");
+            if (!text) return reply("Hello am Sahan an Ai developed by Sahan, how can I help you today?");
 
            const configuration = new Configuration({
 
